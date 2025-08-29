@@ -4,11 +4,7 @@
 - 🔭 I’m currently working on **Quantum algorithms**
 
 - 👯 I’m looking to collaborate on **Security projects**
-
-- 🤝 I’m looking for help with **Quantum Secure Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/55blabs](https://github.com/55blabs)
-
+- 
 - 💬 Ask me about **security tools**
 
 - 📫 How to reach me **mmcnair@captechu.edu**

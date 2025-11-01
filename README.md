@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate Quantum Computing PhD Student from The internet</h3>
 
-- 🔭 I’m currently working on **Quantum algorithms**
+- 🔭 I’m currently working on **Quantum algorithms, Circuits, **
 
 - 👯 I’m looking to collaborate on **Security projects**
-- 
-- 💬 Ask me about **security tools**
 
-- 📫 How to reach me **mmcnair@captechu.edu**
+- 💬 Ask me about **Security tools, Quantum Algorithms, Theory, Future of Mobile Applications/Interfaces, AI/Ml**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
